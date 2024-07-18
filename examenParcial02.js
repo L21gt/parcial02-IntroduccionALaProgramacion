@@ -1,3 +1,10 @@
+/**
+ * NOTA: El video de explicacion se encuentra adjunto en los archivos, 
+ * pero tambien lo puedes ver directamente desde este link publico 
+ * en drive https://drive.google.com/file/d/1EXCj3q9QXQ168PebVRPFJxSjv8GitJo7/view?usp=drive_link
+ */
+
+
 
 
 //   *********** THE DESCENT **********
